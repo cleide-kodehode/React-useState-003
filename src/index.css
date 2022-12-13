@@ -1,0 +1,29 @@
+body {
+  background-color: #1d3557
+
+}
+
+p {
+  color: #ff9f1c;
+  justify-content: center;  
+  text-align: center;
+  font-size: 95px;
+  margin-bottom: 15px;
+}
+
+
+button {
+  width: 70x;
+  height: 65px;
+  background-color: bisque;
+  color: rgb(1, 14, 10);
+  border: 8px solid #9cf7cb;
+  border-radius: 25px;
+  font-size: larger;
+  text-align: center;
+  margin: auto;
+  display: block;
+  margin-bottom: 15px;
+  
+}
+
